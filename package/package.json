@@ -1,6 +1,6 @@
 {
   "name": "bab-chai-css",
-  "version": "1.0.1",
+  "version": "1.0.6",
   "description": "baitan chai css plugin",
   "main": "index.js",
   "module": "index.js",
@@ -11,7 +11,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "bab-chai-css", "bab-chai", "chai", "css"
+    "bab-chai-css",
+    "bab-chai",
+    "chai",
+    "css"
   ],
   "author": "",
   "license": "ISC",
