@@ -2,7 +2,7 @@ const MyTailwind = () => {
     console.log("Chai Tailwind Loaded!");
     document.addEventListener("DOMContentLoaded", () => {
 
-        const elements = document.querySelectorAll("*");
+        const elements = document.querySelectorAll("*"); [h1, p, div]
         console.log("start");
         elements.forEach(el => {
             console.log(el);
@@ -11,7 +11,7 @@ const MyTailwind = () => {
 
             classes.forEach(cls => {
                 if (cls.startsWith("chai-")) {
-                    applyUtility(el, cls);
+                    applyUtility(el, cls); //
                 }
             });
         });
@@ -48,7 +48,7 @@ function applyUtility(el, cls) {
         el.style.backgroundColor = parts[2];
     }
 
-    // chai-text-blue (text color)
+    // chai-text-white (text color)
     if (parts[1] === "text") {
         el.style.color = parts[2];
     }
