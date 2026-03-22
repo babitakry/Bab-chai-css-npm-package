@@ -48,9 +48,9 @@ Your script scans the DOM and dynamically converts these classes into inline sty
 5. Applies corresponding inline styles  
 
 ### Example
-chai-p-20 → padding: 20px
-chai-bg-blue → background-color: blue
-chai-text-white → color: white
+`chai-p-20 → padding: 20px`,
+`chai-bg-blue → background-color: blue`,
+`chai-text-white → color: white`
 
 
 ---
