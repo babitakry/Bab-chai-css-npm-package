@@ -98,4 +98,4 @@ MyTailwind();
 
 ## Twitter Post
 
-👉 [View Tweet](https://twitter.com/your-post-link)
+👉 [View Tweet](https://x.com/Babita3007/status/2035671663635997151)
